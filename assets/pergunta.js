@@ -6,14 +6,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    
+    ' como a esposa do negan morreu?',
+    'ela se suicidou'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'glen',
+    'qual e profissão do glen',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
