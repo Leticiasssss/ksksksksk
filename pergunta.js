@@ -8,7 +8,7 @@ criaCartao(
 criaCartao(
     'negan',
     ' como a esposa do negan morreu?',
-    'ela se suicidou'
+    'ele se suicidou'
 )
 
 criaCartao(
